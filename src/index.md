@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 
 
-![aaaaaa](https://tanakataiki2.github.io/image/light.png)
+![aaaaaa](https://github.com/tanakataiki2/tanakataiki2.github.io/blob/master/image/light.png)
 
 
 
