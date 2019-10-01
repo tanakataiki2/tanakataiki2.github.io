@@ -26,10 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-
 ![Image](https://raw.githubusercontent.com/tanakataiki2/tanakataiki2.github.io/image/light.png)
-
-
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -40,3 +37,17 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## Past Contents
+- Nike
+- Rakuten
+- Meijiyasudaseimei
+- TokyoCityFC
+
+
+<dl>
+  <dt>リンゴ</dt>
+  <dd>赤いフルーツ</dd>
+  <dt>オレンジ</dt>
+  <dd>橙色のフルーツ</dd>
+</dl>
